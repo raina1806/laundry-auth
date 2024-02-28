@@ -3,4 +3,4 @@ services:
   login-app:
     build: .
     ports:
-      - "7300:8000"
+      - "7200:8000"
